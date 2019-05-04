@@ -1,6 +1,6 @@
 # This program will read in the users name.
 
-name = ""
+name = None
 
 name = input("Enter your name: ");
 
